@@ -1,0 +1,6 @@
+@MaxElimentWebApp_HostAddress = http://localhost:5098
+
+GET {{MaxElimentWebApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
